@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10543390_002Db588_002D417d_002Dac5f_002D4ae943674d46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MillionNumsArraySortTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests.MillionNumsArraySortTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60e98442_002Dbad2_002D4113_002Dbdf4_002D10e91288d813/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SimpleArraySortTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests.SimpleArraySortTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests.EmptyArraySortTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests.SimpleArrayWithSameMinNumsSortTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests.MillionNumsArraySortTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bec69040_002Dcf65_002D4455_002D823f_002Db2301faa798a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EBB222C8-8D57-49C9-B3EB-5616A43BD67C::net8.0::Byndyusoft.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
